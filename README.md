@@ -58,7 +58,7 @@ Microsoft Excel | Data Cleaning | Data Preprocessing | PivotTables | PivotCharts
 ## Repository Structure
 - `raw-data/` original dataset
 - `excel-files/` complete workbook (Raw_Data, Clean_Data, pivot sheets P1 to P9 and the Dashboard)
-- `screenshots/` dashboard images
+- `screenshot/` dashboard image
 
 ## Author
 Mulle Vyshnavi | linkedin.com/in/vyshnavi-mulle
