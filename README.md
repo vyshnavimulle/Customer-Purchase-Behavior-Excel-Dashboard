@@ -61,7 +61,7 @@ Microsoft Excel | Data Cleaning | Data Preprocessing | PivotTables | PivotCharts
 - `screenshots/` dashboard images
 
 ## Author
-[Mulle Vyshnavi] | [linkedin.com/in/vyshnavi-mulle]
+Mulle Vyshnavi | linkedin.com/in/vyshnavi-mulle
 
 ## Acknowledgements
 Thanks to my trainer Vineela Diddi, my mentor Bhargav Kunapareddy and Innomatics Research Labs for their guidance and support.
