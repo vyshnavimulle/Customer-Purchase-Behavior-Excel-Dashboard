@@ -56,9 +56,10 @@ Microsoft Excel | Data Cleaning | Data Preprocessing | PivotTables | PivotCharts
 - Review ratings were rounded to whole stars for the distribution chart. The lowest original rating is 2.5.
 
 ## Repository Structure
-- `raw-data/` original dataset
-- `excel-files/` complete workbook (Raw_Data, Clean_Data, pivot sheets P1 to P9 and the Dashboard)
-- `screenshot/` dashboard image
+- `shopping_behavior_updated/` original dataset
+- `Customer_Purchase_Analysis/` complete workbook (Raw_Data, Clean_Data, pivot sheets P1 to P9 and the Dashboard)
+- `Customer_Purchase_Dashboard_Image/` dashboard image
+- `Customer_Purchase_Behavior_Analysis_Retail_Fashion/` Word Document
 
 ## Author
 Mulle Vyshnavi | linkedin.com/in/vyshnavi-mulle
