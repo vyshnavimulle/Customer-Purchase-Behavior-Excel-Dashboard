@@ -62,7 +62,7 @@ Microsoft Excel | Data Cleaning | Data Preprocessing | PivotTables | PivotCharts
 - `Customer_Purchase_Behavior_Analysis_Retail_Fashion/` Word Document
 
 ## Author
-Mulle Vyshnavi | linkedin.com/in/vyshnavi-mulle
+Mulle Vyshnavi | https://www.linkedin.com/in/vyshnavi-mulle/
 
 ## Acknowledgements
 Thanks to my trainer Vineela Diddi, my mentor Bhargav Kunapareddy and Innomatics Research Labs for their guidance and support.
